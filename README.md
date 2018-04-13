@@ -1,5 +1,5 @@
  # ZettaByte_Assignment
-A Web App based on Nodejs converts a queryString into the JSON format.
+A Web App based on Nodejs and Mongodb used to apply crud operations on User's profile.
 
 ## Requirements
 Nodejs(v8.10.0)
