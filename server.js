@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended : false}));
 
 
-app.use('/api',users);
+app.use('/v2',users);
 
 app.listen(port,function(){
 	console.log("Server Started on port"+port);
